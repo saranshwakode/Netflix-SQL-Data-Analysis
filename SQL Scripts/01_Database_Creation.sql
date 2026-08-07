@@ -1,1 +1,1 @@
-
+CREATE DATABASE  netflix_db 
