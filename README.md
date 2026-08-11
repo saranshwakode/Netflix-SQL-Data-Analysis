@@ -214,25 +214,6 @@ Based on the catalog analysis, Netflix could focus on:
 
 ---
 
-#  Project Outputs
-
-The **Outputs** folder contains screenshots of SQL query results and analysis.
-
-The outputs include analysis related to:
-
-- Content type
-- Top genres
-- Country analysis
-- Rating distribution
-- Yearly content additions
-- Year-over-year growth
-- Business analysis
-- Decision-making analysis
-
-👉 [**View Project Outputs**](./Outputs/)
-
----
-
 #  SQL Skills Demonstrated
 
 This project demonstrates practical SQL skills including:
