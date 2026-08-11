@@ -114,7 +114,7 @@ The project is divided into multiple SQL scripts covering the complete analysis 
 - Which countries have the lowest representation?
 - Which countries have a higher proportion of TV Shows than Movies?
 
-## 🎭 Genre Analysis
+##  Genre Analysis
 
 - Which are the top 10 genres?
 - Which genres have very few titles?
@@ -125,7 +125,7 @@ The project is divided into multiple SQL scripts covering the complete analysis 
 - Which directors have created both Movies and TV Shows?
 - Who are the top 3 directors from each country?
 
-## ⭐Rating Analysis
+## Rating Analysis
 
 - Which content ratings dominate Netflix's catalog?
 - Which ratings are underrepresented?
@@ -156,7 +156,7 @@ Movies represent a larger portion of Netflix's catalog than TV Shows.
 
 ---
 
-### 🌍 Country Representation
+### Country Representation
 
 Netflix's catalog is concentrated around a few major content-producing countries.
 
@@ -196,7 +196,7 @@ A portion of Netflix's movie catalog consists of movies released more than 20 ye
 
 ---
 
-# Decision-Making Recommendations
+# Decision Making Recommendations
 
 Based on the catalog analysis, Netflix could focus on:
 
@@ -286,15 +286,12 @@ It combines technical SQL analysis with a **business-focused approach to decisio
 ---
 
 #  Author
+**Saransh Avinash Wakode** 
 
-## Saransh Avinash Wakode
+## 👤About Me
 
-**MBA**
+Hi, I'm **Saransh Avinash Wakode**, an **MBA student** with an interest in **SQL, Data Analytics, Business Intelligence, and Marketing Analytics**.
 
-### Areas of Interest
+I enjoy using data to solve business problems, identify trends, and generate actionable insights. I am currently developing my skills through hands-on projects using **SQL, Excel, and Power BI**.
 
-`SQL` · `Excel` · `Power BI` · `Data Analytics` · `Business Analysis` · `Marketing Analytics`
-
----
-
-⭐ **Thank you for visiting this project!**
+**Skills:** `SQL` · `Excel` · `Power BI` · `Data Analysis` · `Business Analysis` · `Marketing Analytics`
