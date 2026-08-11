@@ -7,17 +7,17 @@ SQL Server project analyzing Netflix data using advanced SQL and business insigh
 
 This project analyzes the **Netflix Movies and TV Shows dataset** using **Microsoft SQL Server**.
 
-The objective is to transform raw Netflix catalog data into meaningful **business insights and decision-making recommendations** using SQL.
+The objective is to transform raw Netflix catalog data into meaningful **business insights and decision making recommendations** using SQL.
 
 The analysis covers:
 
 -  Movies vs TV Shows
 - Genre distribution
-- Country-wise content
+- Country wise content
 - Director analysis
 - Content ratings
 - Yearly content additions
-- Year-over-year growth
+- Year over year growth
 - Content gaps
 - Movie age analysis
 - Portfolio balance
@@ -34,7 +34,7 @@ Netflix operates across multiple countries and content categories. Maintaining a
 - Which ratings dominate the catalog
 - How Netflix's content additions have changed over time
 
-This project uses SQL to identify these patterns and provide **data-driven business recommendations**.
+This project uses SQL to identify these patterns and provide **data driven business recommendations**.
 
 ---
 
@@ -174,9 +174,9 @@ Some genres have a large number of titles, while others have very limited repres
 
 ###  Content Ratings
 
-Mature and teen-oriented ratings have strong representation in the catalog.
+Mature and teen oriented ratings have strong representation in the catalog.
 
-**Recommendation:** Additional family-friendly content could help broaden the audience mix.
+**Recommendation:** Additional family friendly content could help broaden the audience mix.
 
 ---
 
@@ -271,7 +271,7 @@ The next phase of this project can include:
 -  Interactive content trend analysis
 -  Geographic visualizations
 -  Genre and rating dashboards
--  Year-over-year content growth dashboard
+-  Year over year content growth dashboard
 -  Deeper audience segmentation
 -  Viewer/watch-time analysis
 
